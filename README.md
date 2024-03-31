@@ -1,6 +1,5 @@
-# CODSOFTJULY-
-Codsoft Data Science Internship tasks of july batch.
+# Machine Learning Prediction Projects
 
-Task1: Titanic Survival Prediction 
+Task1: Analyzing factors to predict survival likelihood of passengers aboard the Titanic.
 
-Task2: Sales Prediction
+Task2: Projecting future sales figures using historical data and predictive models.
